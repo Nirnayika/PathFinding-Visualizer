@@ -1,7 +1,6 @@
 # PathFinding Visualizer
 
-Welcome to PathFinding Visualizer! I built this application because I was fascinated by pathFinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. You can access it here (use Google Chrome!):http://127.0.0.1:3000/index.html
-
+Welcome to PathFinding Visualizer! I built this application because I was fascinated by pathFinding algorithms, and I wanted to visualize them in action. I hope that you enjoy playing around with this visualization tool just as much as I enjoyed building it. 
 ## Meet the Algorithms
 
 This application supports the following algorithms: 
